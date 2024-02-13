@@ -12,4 +12,4 @@ method must return true if two fractions are ARITHMETICALLY equal.
   `equals` method.
 - `Test the program` and correct any syntax errors.
 -  `Verify` that the output is correct (no test runs for this Practicum)
-- `Submit` the code on Replit
+
