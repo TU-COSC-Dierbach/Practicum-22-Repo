@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 22 - Copy Constructors (5 pts.)<br>
+## PRACTICUM 22 - Copy Constructors<br>
 
 ### WHAT TO DO
 For this practicum, add and test an equals method that properly
